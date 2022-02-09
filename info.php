@@ -19,7 +19,7 @@ a:hover{
 <center>
 <h1> Funychat Information </h1>
 all the information you could need about Funychat
-<br> <a href=cversionlog.php> Versions </a>
+<br> <a href="./cversionlog.php"> Versions </a>
 <h2> The Rules </h2>
 1. dont exploit the server in any way <br>
 2. dont violate everyones right to read and make messages (so dont hack people and dont spam so much that no messages are visible)<br>
