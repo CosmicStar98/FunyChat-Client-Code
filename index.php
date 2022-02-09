@@ -1,5 +1,5 @@
 <head>
-<title> Funychat Beta </title>
+<title> Funychat</title>
 <style>
 .select{
     padding: 2px;
