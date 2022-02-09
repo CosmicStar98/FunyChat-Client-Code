@@ -32,7 +32,7 @@ video{
     <div style="padding: 0px 5px">
         <h2 style="font-size: 22px;"> Funychat (test) </h2>
         <a href="http://eggyprojects.ml"> Home Page </a><br>
-        <a href=funychat/info.html target=_blank> Information </a><br><br><select onchange=theme() class=select id=select><option value=dark.css> dark theme </option><option value=light.css> light theme </option><option value=test.css> test theme </option></select><br>
+        <a href="./info.php" target=_blank> Information </a><br><br><select onchange=theme() class=select id=select><option value=dark.css> dark theme </option><option value=light.css> light theme </option><option value=test.css> test theme </option></select><br>
         <br>
         <p id=name5>Name: UNNAMED</p>
         <p id=room5> Room: None </p>
