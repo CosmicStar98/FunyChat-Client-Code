@@ -1,0 +1,129 @@
+    body{
+        font-family: arial;
+        background-color: black;
+        color:white;
+    }
+    .chatdiv{
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        top: 0px;
+        left: 0px;
+    }
+.testeg{
+
+   position: absolute;
+    line-height: 1;
+    padding: 0px 5px;
+
+    height: 100%;
+ width: calc(100% - 10px);
+    overflow-wrap:break-word;
+
+}
+.testeg2{
+ width: 85%;
+ 
+    position: absolute;
+    right: 0px;
+    background-color: black;
+    color: white;
+    top: 0px;
+    height: 84%;
+    
+    overflow-y: scroll;
+    overflow-wrap:break-word;
+}
+.testeg2::-webkit-scrollbar{
+  display:none;
+}
+.stats::-webkit-scrollbar{
+    display:none;
+}
+.msgin{
+    outline: none;
+height: 7.5%;
+width: 85%;
+border: none;
+padding: 0px 5px;
+font-size: 20px;
+position: fixed;
+right: 0px;
+background-color: #202020;
+color: white;
+bottom: 7.5%;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: #cccccc;
+}
+.msgbtn{
+    outline: none;
+height: 7.5%;
+width: 85%;
+font-size: 30px;
+border: none;
+padding: 0px 5px;
+position: fixed;
+right: 0px;
+background-color: #333333;
+color: white;
+bottom: 0px;
+}
+.msgbtn:hover{
+
+background-color: #404040;
+}
+.stats{
+    color: white;
+    width: 15%;
+    position: fixed;
+    height: 100%;
+    background-color: #444444;
+    left: 0px;
+    top: 0px;
+    overflow-y: scroll;
+    overflow-wrap:break-word;
+    
+}
+
+#nameform{
+    width: 500px;
+    height: auto;
+    background-color: #333333;
+    top: 50%;
+    left: 50%;
+padding: 10px 20px;
+    transform: translateX(-50%) translateY(-50%);
+    position: fixed;
+    
+}
+#nameput{
+    width: 100%;
+    font-size: 30px;
+    padding: 5px;
+    border: none;
+    color: white;
+    background-color: #202020;
+}
+#room{
+    width: 100%;
+    font-size: 30px;
+    padding: 5px;
+    border: none;
+    color: white;
+    background-color: #202020;
+}
+#namesub{
+min-width: 30%;
+font-size: 25px;
+    padding: 5px;
+    border: none;
+    color: white;
+    background-color: #252525;
+}
+#namesub:hover{
+    background-color: #303030;
+}
